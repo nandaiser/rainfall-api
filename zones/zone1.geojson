@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [[
+      [106.80, -6.20],
+      [106.85, -6.20],
+      [106.85, -6.25],
+      [106.80, -6.25],
+      [106.80, -6.20]
+    ]]
+  },
+  "properties": {
+    "name": "Zone A",
+    "risk": "high"
+  }
+}
